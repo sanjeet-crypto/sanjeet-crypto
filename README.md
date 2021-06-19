@@ -11,23 +11,19 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Kushagra = {
+const Sanjeet = {
     pronouns: "He" | "Him",
-    code: ["c++", "Python", "Java", "HTML", "CSS", "JavaScript"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["C", "Python", "Java", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "design" ,"robotics"],
     technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            Python: ["Tkinter", "QT5"],
-            Web-dev: ["css", "HTML", "JavaScript"]
+               frontEnd: {
+                   Web-dev: ["css", "HTML"]
         },
         
         
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "ML"]
+        misc: [ "open-cv", "ML"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am doing crios winter of doing and IIIT Kalayni winter of codes",
+    currentProject: "I am core member at Hackodisha hackathon NIT Rourkela",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
