@@ -3,9 +3,9 @@
 <p><b>Undergraduate Student  <a href="https://www.nitrkl.ac.in/">NIT, Rourkela</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </b></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Sanjeetpatro1/status/1372611923175378944?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/Sanjeetpatro1?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/sanjeet-patro-6a1067202?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjeet-patro-6a1067202/)](https://www.linkedin.com/in/sanjeet-patro-6a1067202/)
-![GitHub followers](https://img.shields.io/github/followers/codewithkushagra?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/sanjeet-crypto?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=codewithkushagra.codewithkushagra)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
