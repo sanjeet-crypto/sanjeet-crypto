@@ -49,12 +49,12 @@ const Sanjeet = {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{codewithkushagra}/count.svg" alt="codewithkushagra :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{sanjeet-crypto}/count.svg" alt="sanjeet-crypto :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :smile:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkushagra&langs_count=10&theme=tokyonight&layout=compact" alt="codewithkushagra :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet-crypto&langs_count=10&theme=tokyonight&layout=compact" alt="sanjeet-crypto :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=codewithkushagra&show_icons=true&theme=synthwave" alt="codewithkushagra :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sanjeet-crypto&show_icons=true&theme=synthwave" alt="sanjeet-crypto :: Profile Stats" /></p>
