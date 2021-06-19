@@ -4,7 +4,7 @@
 </b></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kushagr68914534?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/kushagra-agarwal-a843721a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagra-agarwal-a843721a8/)](https://www.linkedin.com/in/kushagra-agarwal-a843721a8/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/sanjeet-patro-6a1067202?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjeet-patro-6a1067202/)](https://www.linkedin.com/in/sanjeet-patro-6a1067202/)
 ![GitHub followers](https://img.shields.io/github/followers/codewithkushagra?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=codewithkushagra.codewithkushagra)
 
