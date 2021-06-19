@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Sanjeet Patro! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://www.linkpicture.com/q/WhatsApp-Image-2021-06-19-at-10.33.51-AM.jpeg" width="230">
 <p><b>Undergraduate Student  <a href="https://www.nitrkl.ac.in/">NIT, Rourkela</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </b></p>
 
