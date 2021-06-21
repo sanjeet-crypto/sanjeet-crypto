@@ -1,5 +1,6 @@
+<img  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="1000" height="400" style="margin:10px">
 <h2>नमस्ते (Namaste)🙏🏻, I'm Sanjeet Patro! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" >
+
 <p><b>Undergraduate Student  <a href="https://www.nitrkl.ac.in/">NIT, Rourkela</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </b></p>
 
@@ -7,6 +8,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/sanjeet-patro-6a1067202?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjeet-patro-6a1067202/)](https://www.linkedin.com/in/sanjeet-patro-6a1067202/)
 ![GitHub followers](https://img.shields.io/github/followers/sanjeet-crypto?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=sanjeet-crypto.sanjeet-crypto)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
